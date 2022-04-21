@@ -3,8 +3,8 @@
 
 We will be covering:
 
--->SOLID PRINCIPLES
--->Some important Design Patterns
+1. SOLID PRINCIPLES
+2. Some important Design Patterns
 
 Then there will be upcoming LLD's for the following (some of them might be skeleton only):
 
